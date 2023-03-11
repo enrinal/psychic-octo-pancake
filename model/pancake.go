@@ -1,5 +1,5 @@
 type Pancake struct {
-	ID int
+	ID string
 	Name string
 	Size int
 }
